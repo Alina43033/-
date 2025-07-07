@@ -5,7 +5,7 @@
 -- Результат будет соответствовать букве «ы»
 SELECT species_name
 FROM species
-WHERE to_char(date_start,'YYYY') = '2023';
+WHERE to_char(date_start,'YYYY') = '2025';
 -- ОБЕЗЬЯНА
 
 
